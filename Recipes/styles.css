@@ -1,0 +1,82 @@
+.banana{
+
+    color: blue;
+    background-color: pink;
+    text-align: right;
+    
+    }
+    .banana2{
+
+        color: black;
+        background-color: yellow;
+        text-align: center;
+        font-size: smaller;
+    }
+
+    .gloop{
+
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size: 45px;
+        color: purple;
+        background-color: beige;
+    }
+
+    #cramble{
+
+        font-weight: 900;
+        color: azure;
+        background-color: brown;
+
+
+    }
+
+    #dreg{
+
+        color: aquamarine;
+        font-size: larger;
+        text-align: center;
+    }
+
+
+    .gorb{
+
+        background-color: blueviolet;
+        text-align: right;
+
+
+    }
+.forte{
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 900;
+    text-align: center;
+    color: blanchedalmond;
+
+}
+
+
+.potat{
+
+    background-color: bisque;
+    color: brown;
+    text-align: center;
+}
+
+
+#gleep{
+
+    text-align: right;
+    background-color: aquamarine;
+    color: black;
+}
+
+.fulp{
+
+    background-color: aqua;
+    font-size: small;
+    color: blue;
+
+
+
+
+}
